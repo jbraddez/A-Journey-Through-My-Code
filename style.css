@@ -11,6 +11,10 @@ body {
     scroll-behavior: smooth;
 }
 
+#scrolltext{
+    white-space:nowrap;
+}
+
 h1, h2, p {
 margin: 0 0 1rem;
 }
